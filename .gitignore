@@ -104,7 +104,7 @@ venv.bak/
 .mypy_cache/
 
 Final Case Study Modelling.pdf
-Project1/essays.csv
-Project1/outcomes.csv
-Project1/projects.csv
-Project1/sample_data_audit.csv
+essays.csv
+outcomes.csv
+projects.csv
+sample_data_audit.csv
